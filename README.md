@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## 💻 Cifra de Cesar em MIPS
 
 Projeto desenvolvimento para a matéria de Arquitetura e Organização de Computadores na UTFPR, ano de 2015. Achei interessante compartilhar publicamente pela complexidade e trabalho necessário para finalizar o projeto utilizando Assembly, linguagem hoje utilizada apenas em casos de uso bem específicos. O código encontra-se totalmente comentado para melhor entendimento e acompanha o IDE em JAR.
